@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clikr</string>
+    <string name="plusSign">+</string>
+    <string name="minusSign">-</string>
+    <string name="total_cap_num">500</string>
+    <string name="total_cap_text">Total Capacity</string>
+    <string name="occupied">Occupied %</string>
+    <string name="occupied_per">2.4</string>
+    <string name="available_cap">Available Cap</string>
+    <string name="available_per">477</string>
+    <string name="reset_text">Reset</string>
+    <string name="counter_num">0022</string>
+</resources>
